@@ -24,6 +24,7 @@
 .card:active {
   color: #0070f3;
   border-color: #0070f3;
+   max-width: 30%;
 }
 
 .card p {
