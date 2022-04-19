@@ -12,7 +12,7 @@ function index() {
         </p>
         <br />
         <a href="https://ozen-react.envytheme.com/services-details/">
-          <h4>Read more</h4>
+          <h4>Read more --></h4>
         </a>
       </div>
       <div className={styles.card}>
@@ -25,7 +25,7 @@ function index() {
         </p>
         <br />
         <a href="https://ozen-react.envytheme.com/services-details/">
-          <h4>Read more</h4>
+          <h4>Read more --></h4>
         </a>
       </div>
       <div className={styles.card}>
@@ -38,7 +38,7 @@ function index() {
         </p>
         <br />
         <a href="https://ozen-react.envytheme.com/services-details/">
-          <h4>Read more</h4>
+          <h4>Read more --></h4>
         </a>
       </div>
     </main>
